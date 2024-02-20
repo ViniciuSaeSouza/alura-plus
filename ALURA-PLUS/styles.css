@@ -43,6 +43,7 @@ body {
     display: block;
     text-decoration: none;
     margin-bottom: 1em;
+    text-align: center;
 }
 
 .botao_secundario {
@@ -87,3 +88,13 @@ body {
 .descricao__texto {
     color: var(--cinza-secundario);
 }
+
+.secundario__botao {
+    display: inline-block;
+    margin-top: 1em;
+}
+
+.container__descricao {
+    padding: 5em;
+}
+
